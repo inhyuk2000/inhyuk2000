@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Engineering at Kyung Hee University and working on data-driven problem-solving projects.<br><br>👯 I’m looking to collaborate on data analytics, AI/LLM, HCI, and product-focused projects.<br><br>🤝 I’m looking for help with applying analytical insights to real-world products and business decisions.<br><br>🌱 I’m currently learning advanced data analytics, SQL, Python, and LLM-based system development.<br><br>💬 Ask me about problem definition, data analysis, multi-agent LLM research, and presentation design.<br><br>⚡ Fun fact: I transitioned from Mechanical Engineering to Computer Engineering and also served as a pacer staff member for the Kyung Hee University Running Club.
+🔭 현재 경희대학교 컴퓨터공학과에서 데이터 기반 문제 해결과 AI·LLM 관련 프로젝트를 수행하고 있습니다.<br><br>👯 데이터 분석, AI·LLM, HCI 및 제품 중심 프로젝트에서 협업하고 싶습니다.<br><br>🤝 분석 결과를 실제 제품과 비즈니스 의사결정으로 연결하는 방법에 관심이 있습니다.<br><br>🌱 현재 데이터 분석, SQL, Python 및 LLM 기반 시스템 개발 역량을 확장하고 있습니다.<br><br>💬 문제 정의, 데이터 분석, 멀티 에이전트 LLM 연구, 프레젠테이션에 관해 이야기할 수 있습니다.<br><br>⚡ 기계공학과에서 컴퓨터공학과로 전과했으며, 경희대학교 러닝 동아리에서 페이서 운영진으로 활동했습니다.
 
 
 ## 🌐 Socials:
