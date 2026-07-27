@@ -38,7 +38,7 @@
     <div style="text-align: left;"> <a href=https://perpetual-faucet-634.notion.site/In-Hyuk-s-Resume-1e93e21703c983c2be3c01f73f4f4ed3> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://perpetual-faucet-634.notion.site/In-Hyuk-s-Resume-1e93e21703c983c2be3c01f73f4f4ed3"> </a>
          <a href=mailto:thddlsgur0105@khu.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thddlsgur0105@khu.ac.kr"> </a>
           </div>  <br> 
-    <div style="text-align: left;"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+    <div style="text-align: left;"> <a href=”https://hits.seeyoufarm.com”><img src=”https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter”/></a>                                            
        </div> 
     </div>
     <div style="text-align: left;"> 
