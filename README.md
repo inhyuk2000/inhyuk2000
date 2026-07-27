@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 데이터와 AI를 통해 가치를 만드는 것을 좋아합니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 궁금한 것이 생기면 원인을 끝까지 파고들며 해결하는 사람입니다. 단순히 기능을 구현하는 것보다 왜 문제가 발생했는지 분석하고, 더 나은 해결 방법을 찾는 과정에서 가장 큰 보람을 느낍니다. 이러한 성향은 컴퓨터공학을 공부하며 다양한 프로젝트와 연구를 수행하는 과정에서 자연스럽게 개발자로서의 강점이 되었습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 궁금한 것이 생기면 원인을 끝까지 파고들며 해결하는 사람입니다. <br> 단순히 기능을 구현하는 것보다 왜 문제가 발생했는지 분석하고, 더 나은 해결 방법을 찾는 과정에서 가장 큰 보람을 느낍니다. 이러한 성향은 컴퓨터공학을 공부하며 다양한 프로젝트와 연구를 수행하는 과정에서 자연스럽게 개발자로서의 강점이 되었습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
