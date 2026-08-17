@@ -2,8 +2,8 @@
 🔭 경희대학교 컴퓨터공학과에서 <mark><b>데이터 기반 문제 해결</b></mark>과 <mark><b>AI·LLM</b></mark> 관련 프로젝트를 수행했습니다.<br><br>👯 <mark><b>데이터 분석, AI·LLM, HCI</b></mark> 및 제품 중심 프로젝트에서 협업하고 싶습니다.<br><br>🤝 분석 결과를 실제 제품과 <mark><b>비즈니스 의사결정</b></mark>으로 연결하는 방법에 관심이 있습니다.<br><br>🌱 현재 <mark><b>데이터 분석, SQL, Python 및 LLM 기반</b></mark> 시스템 개발 역량을 확장하고 있습니다.<br><br>💬 <mark><b>문제 정의, 데이터 분석, 멀티 에이전트 LLM 연구, 프레젠테이션</b></mark>에 자신이 있습니다.<br><br>⚡ 기계공학과에서 컴퓨터공학과로 전과했으며, 경희대학교 러닝 동아리에서 <mark><b>페이서 운영진</b></mark>으로 활동했습니다.
 
 # 🌐 Socials:
-[![Portfolio](https://shields.io)](https://github.io)
-[![Poster Hall](https://shields.io)](https://github.ioposter-hall/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://inhyuk2000.github.io/)
+[![Poster Hall](https://img.shields.io/badge/Poster%20Hall-8B5CF6?style=for-the-badge&logo=googlephotos&logoColor=white)](https://inhyuk2000.github.io/poster-hall/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inhyuksong0105)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thddlsgur0105@khu.ac.kr) 
 
